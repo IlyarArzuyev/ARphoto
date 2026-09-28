@@ -1,0 +1,36 @@
+{
+  "version": 8,
+  "revision": 7,
+  "publishedIds": [
+    "45e891d6-b31b-4da0-a5e9-efaff4a40e6d",
+    "e0b6b3ae-c20c-41e1-86ea-89e291319d81"
+  ],
+  "items": [
+    {
+      "id": "45e891d6-b31b-4da0-a5e9-efaff4a40e6d",
+      "name": "Ильяр",
+      "imagePath": "9575f756-5dd5-4a62-9060-35f516602c99.jpeg",
+      "videoPath": "265d4433-9d35-4800-9506-fe54637132bc.mov",
+      "width": 1210,
+      "height": 1600,
+      "targetIndex": 0,
+      "enabled": true,
+      "published": true,
+      "createdAt": "2026-09-24T10:32:14.415Z",
+      "updatedAt": "2026-09-24T11:13:18.489Z"
+    },
+    {
+      "id": "e0b6b3ae-c20c-41e1-86ea-89e291319d81",
+      "name": "Ильяр",
+      "imagePath": "08d61669-54ad-437a-bca6-d1ac34579a86.jpeg",
+      "videoPath": "6ba56157-b017-4aed-9d3a-e27f70f10967.mov",
+      "width": 928,
+      "height": 1152,
+      "targetIndex": 1,
+      "enabled": true,
+      "published": true,
+      "createdAt": "2026-09-24T11:25:58.163Z",
+      "updatedAt": "2026-09-24T11:40:41.439Z"
+    }
+  ]
+}

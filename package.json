@@ -1,10 +1,10 @@
 {
   "name": "ar-photo-video-scanner",
-  "version": "1.0.0",
+  "version": "3.0.0",
   "private": true,
   "type": "module",
   "scripts": {
-    "start": "node server/index.js",
+    "start": "node --env-file=.env server/index.js",
     "dev": "node --env-file=.env --watch server/index.js"
   },
   "dependencies": {

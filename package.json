@@ -4,10 +4,10 @@
   "private": true,
   "type": "module",
   "scripts": {
-    "start": "node server/index.js",
+    "start": "node --env-file=.env server/index.js",
     "dev": "node --env-file=.env --watch server/index.js"
   },
-   "dependencies": {
+  "dependencies": {
     "@8thwall/engine": "0.1.0",
     "@8thwall/image-target-cli": "1.0.0",
     "express": "^5.1.0",

@@ -7,17 +7,13 @@
     "start": "node server/index.js",
     "dev": "node --env-file=.env --watch server/index.js"
   },
-  "dependencies": {
-    "aframe": "1.5.0",
-    "canvas": "3.2.3",
+   "dependencies": {
+    "@8thwall/engine": "0.1.0",
+    "@8thwall/image-target-cli": "1.0.0",
     "express": "^5.1.0",
-    "mind-ar": "1.2.5",
     "multer": "^2.0.2",
-    "ws": "^8.18.3"
-  },
-  "overrides": {
-    "mind-ar": {
-      "canvas": "3.2.3"
-    }
+    "sharp": "^0.34.5",
+    "ws": "^8.18.3",
+    "three": "^0.172.0"
   }
 }
